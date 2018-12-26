@@ -1,0 +1,26 @@
+{
+  "name": "about-me",
+  "version": "0.1.0",
+  "description": "react multi pages app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Yonninout/about-me.git"
+  },
+  "keywords": [
+    "react",
+    "app",
+    "multipages",
+    "react",
+    "rooter"
+  ],
+  "author": "Yonni tabeling @ Teepote",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yonninout/about-me/issues"
+  },
+  "homepage": "https://github.com/Yonninout/about-me#readme"
+}
